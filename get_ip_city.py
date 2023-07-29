@@ -1,6 +1,6 @@
 #-*- coding:utf-8 -*-
 # @Author : Target
-# @Time :2023-7-30
+# @Date :2023-7-30
 # @Function: get_ip_city
 
 import sys
